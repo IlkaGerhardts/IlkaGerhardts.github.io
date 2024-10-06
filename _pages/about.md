@@ -16,7 +16,8 @@ social: false # includes social icons at the bottom of the page
 
 Hello - welcome to my website.
 
-I'm an assistant professor (non-tenure track) at LMU Munich. I'm a member of the collaborative research center TRR 190 and a CESifo Affiliate Member. 
-During my PhD scholarships and visits....
+I am an Assistant Professor (non-tenure track) at the Ludwig-Maximilians-Universität (LMU) in Munich and a member of the CESifo network as well as the collaborative research center TRR 190. I am alumni of the Fulbright Commission, the Joachim-Herz-Stiftung, the Elite Network of Bavaria, as well as the excellence programme LMUMentoring. During my PhD I visited the Broom Center at UCSB. 
 
 My research interests focus on Health Economics, Education Economics, and Applied Microeconometrics.
+
+You can contact me at ilka.gerhardts[at]econ.lmu.de. 
